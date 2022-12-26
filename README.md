@@ -41,8 +41,8 @@ python3.8
 pip install pandas==1.5.2
 pip install numpy==1.23.5
 pip install scikit-learn==1.1.3
-pip install torch==1.13.0+cu117
-pip install torchvision==0.14.0+cu117
+pip install torch
+pip install torchvision
 pip install tqdm==4.64.1
 pip install transformers==4.25.1
 pip install pyecharts==1.9.1
