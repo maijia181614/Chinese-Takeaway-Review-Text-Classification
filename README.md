@@ -84,15 +84,15 @@ From the results of the current test dataset, the effect of the original chinese
 
 #### bert_acc
 
-![](C:\bertText\img\bert_acc.png)
+![img](img/bert_acc.png)
 
 #### bert_TextCNN_acc
 
-![](C:\bertText\img\bert_TextCNN_acc.png)
+![img](img/bert_TextCNN_acc.png)
 
 #### bert_TextRNN_acc
 
-![](C:\bertText\img\bert_TextRNN_acc.png)
+![img](img/bert_TextRNN_acc.png)
 
 ### 运行说明
 
