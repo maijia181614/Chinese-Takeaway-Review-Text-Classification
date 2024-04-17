@@ -107,6 +107,8 @@ modelIndex=2 表示使用原始chinese_bert+TextRNN模型
 
 训练保存的模型在model目录下
 
-原始chinese_bert模型在chinese_wwm_ext_pytorch目录下，此处因文件大小过大未提供，可直接去上面的出处链接下载
+原始chinese_bert模型在chinese_wwm_ext_pytorch目录下，此处因文件大小过大未提供，可直接去上面的出处链接下载.
+
+在运行其他选项之前需要先跑一遍原始chinese_bert模型得到bert_model_train.pth.
 
 测试数据结果在result目录下，绘制的图表数据结果在charts目录下
