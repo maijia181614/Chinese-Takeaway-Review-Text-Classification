@@ -103,6 +103,7 @@ modelIndex=1 表示使用原始chinese_bert+TextCNN模型
 modelIndex=2 表示使用原始chinese_bert+TextRNN模型
 ```
 
+
 数据集在dataset目录下
 
 训练保存的模型在model目录下
